@@ -1,0 +1,13 @@
+*.o
+*.ko
+*.a
+*.so
+*.iso
+*.tar
+*.tar.gz
+*.tar.xz
+.config
+vmlinuz
+System.map
+/kernel/linux-*/
+/rootfs/lib/modules/
