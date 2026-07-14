@@ -11,3 +11,5 @@ vmlinuz
 System.map
 /kernel/linux-*/
 /rootfs/lib/modules/
+
+busybox-*
